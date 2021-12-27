@@ -1,8 +1,6 @@
 ![BannerGV](https://doctorsh3ll.github.io/gruvdiscord/assets/bannergv.png)
 
----
-
-![GifGV](https://doctorsh3ll.github.io/gruvdiscord/assets/gifgv.gif)
+![gif](https://user-images.githubusercontent.com/86859169/147510635-34bffd0d-c127-4193-8776-312948329687.gif)
 
 - ##### Smooth and dynamic animations.
   - ###### (🇧🇷) Animações dinâmicas e suaves.
