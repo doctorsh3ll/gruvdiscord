@@ -1,0 +1,108 @@
+/*Color Stuffs*/
+.theme-dark .container-3ayLPN {
+    background-color: var(--background-floating);}
+
+.theme-dark .elevationBorderHigh-2WYJ09 {
+    box-shadow: none;}
+
+.colorable-1bkp8v.primaryDark-3mSFDl {
+    background-color: var(--background-primary);}
+
+.input-2VB9rf {
+    background-color: var(--background-modifier-accent);}
+
+.tabBody-3YRQ8W {
+    background-color: var(--background-primary);}
+
+.lookFilled-1Gx00P {
+    background-color: var(--brand-experiment-30a);}
+
+.container-2Pjhx-:hover {
+    background-color: var(--color-transition-hover);}
+
+.item-PXvHYJ:hover {
+    background-color: var(--color-transition-hover);}
+
+.circleIconButton-hZmpE8:hover {
+    background-color: var(--brand-experiment-30a);}
+
+.circleIcon-2_77lA {
+    color: #E1D2AF;}
+
+.wrapper-3WhCwL:hover {
+    background-color: var(--brand-experiment-30a);}
+
+.wrapper-3NnKdC {
+    border-right: thin solid var(--background-modifier-accent);}
+
+.scroller-1JbKMe {
+    border-right: thin solid var(--background-modifier-accent);}
+
+.scrollableContainer-2NUZem {
+    background-color: #363331;}
+
+.buttonContainer-28fw2U:hover {
+    background-color: #373432;}
+
+.panels-j1Uci_ {
+    border-right: thin solid var(--background-modifier-accent);}
+
+.accountProfileCard-1XCH88 {
+    border: thin solid var(--background-modifier-accent);}
+
+.container-1r6BKw {
+    border-bottom: thin solid var(--background-modifier-accent);}
+
+.scroller-RmtA4e {
+    border-right: thin solid var(--background-modifier-accent);}
+
+.subtext-3CDbHg {
+    display: none;}
+
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: var(--background-accent);}
+
+.searchBar-3dMhjb {
+    background-color: var(--background-accent);}
+
+.wordmarkWindows-1v0lYD {
+    color: var(--text-normal);}
+/* Mac titlebar, delete this bars if you want the normal titlebar -->*/
+.typeWindows-1za-n7 {
+    flex-direction: row;}
+
+.wordmarkWindows-1v0lYD {
+    position: absolute;
+    left: 50%;
+    order: 2;}
+
+.winButton-iRh8-Z > svg {
+    display: none;}
+
+.winButton-iRh8-Z:hover {
+    background-color: var(--background-teritary);}
+
+.typeWindows-1za-n7 > div:hover::after {
+    transform: scale(1.1);}
+
+.winButtonMinMax-PBQ2gm:nth-child(4):after {
+    background-color: var(--interactive-active);
+    margin-top: 0px;
+    margin-left: 8px;}
+
+.winButtonMinMax-PBQ2gm:nth-child(3)::after {
+    background-color: var(--speaking);
+    margin-top: 0px;
+    margin-left: 5px;}
+
+.winButtonClose-1HsbF-::after {
+    background-color: var(--brand-experiment-30a);
+    margin-top: 0px;
+    margin-left: 8px;}
+
+.winButton-iRh8-Z::after {
+    content: "";
+    padding: 6px;
+    border-radius: 50px;
+    pointer-events: fill;
+    transition-duration: 150ms;}

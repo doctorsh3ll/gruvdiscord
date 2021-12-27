@@ -1,0 +1,42 @@
+.container-1giJp5 {
+    animation: opacity-wrapper 0.7s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.item-PXvHYJ {
+    transition: all ease 0.2s 0s;
+    background-color: var(--background-primary);
+}
+
+.container-2Pjhx- {
+    transition: background-color ease 0.2s 0s;}
+
+.item-PXvHYJ {
+    transition: all ease 0.2s 0s;
+    background-color: var(--background-primary);}
+
+/*search bar*/
+.search-2oPWTC .searchBar-3dMhjb {
+    transition: 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    width: 25px;
+}
+
+.searchBar-3dMhjb:hover {
+    transition: 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    width: 144px;
+}
+/*guilds tab*/
+.wrapper-3NnKdC {
+    transition: 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    width: 10px;
+}
+
+.wrapper-3NnKdC:hover {
+    transition: 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    width: 72px;
+}
+
+@keyframes opacity-wrapper {
+    0% {opacity: 0%;}
+
+    100% {opacity: 100%;}
+}
