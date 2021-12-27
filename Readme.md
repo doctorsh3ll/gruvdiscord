@@ -2,7 +2,7 @@
 
 ---
 
-![GifGV](https://doctorsh3ll.github.io/gruvdiscord/assets/gifgv.gif)
+![GifGv](https://doctorsh3ll.github.io/gruvdiscord/assets/gifgv.gif)
 
 - ##### Smooth and dynamic animations.
   - ###### (🇧🇷) Animações dinâmicas e suaves.
