@@ -106,3 +106,17 @@
     border-radius: 50px;
     pointer-events: fill;
     transition-duration: 150ms;}
+
+.icon-2W8DHg,
+.spine-29OFwR {
+    color: var(--header-secondary);}
+
+.selected-2TbFuo .icon-2W8DHg,
+.modeUnread-3Cxepe .icon-2W8DHg {
+    color: var(--interactive-active) !important;} /* used !important because it fell back to Discord's default while changing colors; might fix later but hey it works for now */
+
+.scrollableContainer-15eg7h {
+    background-color: #282828;}
+
+.placeholder-1rCBhr {
+    color: var(--text-muted);}
