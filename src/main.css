@@ -111,7 +111,7 @@
     color: var(--header-secondary);}
 
 .selected-2TbFuo .icon-2W8DHg {
-    color: var(--interactive-active) !important; /* used !important because it fell back to Discord's default while changing colors; might fix later but hey it works for now */}
+    color: var(--interactive-active) !important;} /* used !important because it fell back to Discord's default while changing colors; might fix later but hey it works for now */
 
 .scrollableContainer-15eg7h {
     background-color: #282828;}
